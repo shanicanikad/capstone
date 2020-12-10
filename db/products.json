@@ -194,5 +194,36 @@
                 "infoLink": "https://pubmed.ncbi.nlm.nih.gov/10511487/"
             }
         ]
+    },
+    {
+        
+        "product": "Hand Sanitizer",
+        "average_efficiency_percentage": "99.0",
+        "average_pricing_USD": "5.00",
+        "available": [
+                {
+                    "place": "Walgreens",
+                    "image_url": "https://media.officedepot.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_1665,q_auto,w_1250/c_pad,h_1665,w_1250/v1/products/5136038/5136038_o01_112020?pgw=1&pgwact=1",
+                    "price": "5.99",
+                    "link": "https://www.walgreens.com/store/c/germ-x-original-hand-sanitizer/ID=300400732-product?ext=gooFY21_COVID+Prevention_PLACOVID+Prevention_PLA_&gclsrc=aw.ds&&ext=gooFY21_COVID_Prevention_PLA&pla&adtype=pla&kpid=400622137&sst=_k_CjwKCAiAq8f-BRBtEiwAGr3DgQOXZWzR6UkdhgxaYjPfXaE7mtmDuHdizEUnKBU8pvninDXNXNh2GhoCSV4QAvD_BwE_k_"
+                },
+                {
+                    "place": "Lowe's",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSekyYkXkYVojMgeQbAl6UOaLgm3totuynGi3X21xEwntoz1QZHu6awW5_jbglO6ARY7CMBhvTbLCCIf5FITxrKPUdZq7QZ-vra8y1GLucEDMUq43nwLh1KqXIF5zUs&usqp=CAE",
+                    "price": "4.98",
+                    "link": "https://www.lowes.com/pd/Steril-Wize-Steril-Wize-Hand-Sanitizer-500ML/1002890562"
+                },
+                {
+                    "place": "Office Depot",
+                    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQLLWd8ksGe2b4xBYoEQHMHZjpbEf0PM9AiCO1-3eIcMto80PuAcfhBdvKbh5fuoKhnSCXryiwCzUoXyuXLm6uRQsNYInVaWlPBuiGytMVGrgoyysQUw-N23xLOUtqh&usqp=CAE",
+                    "price": "1.99",
+                    "link": "https://www.officedepot.com/a/products/7331325/XtraCare-Fragrance-Free-Hand-Sanitizer-8/?utm_source=google&utm_medium=sag"
+                },
+                {
+                    "infoLink": "https://www.cdc.gov/handwashing/show-me-the-science-hand-sanitizer.html#:~:text=Many%20studies%20have%20found%20that,based%20hand%20sanitizers%2016%2C20."
+                }
+            ]
+            
+
     }
 ]
