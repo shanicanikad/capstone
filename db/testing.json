@@ -1,0 +1,86 @@
+[
+    {
+        "product": "Nasopharyngeal Swab",
+        "average_efficiency_percentage": "97.4",
+        "average_pricing_USD": "25.00",
+        "available": [
+            {
+                "place": "Clinic/ Doctor's Office",
+                "image_url": "https://azbigmedia.com/wp-content/uploads/2017/11/doctor-shortage.jpg",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "infoLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270800/"
+            }
+        ]
+    },
+    {
+        "product": "Nasal Test",
+        "average_efficiency_percentage": "89.2",
+        "average_pricing_USD": "25.00",
+        "available": [
+            {
+                "place": "Clinic/ Doctor's Office",
+                "image_url": "https://azbigmedia.com/wp-content/uploads/2017/11/doctor-shortage.jpg",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "infoLink": "https://jcm.asm.org/content/58/6/e00721-20"
+            }
+        ]
+    },
+    {
+        "product": "NanoSplash",
+        "average_efficiency_percentage": "99.0",
+        "average_pricing_USD": "100.00",
+        "available": [
+            {
+                "place": "Conduit Computing",
+                "image_url": "https://miro.medium.com/max/2048/1*Z-K4P88C4TxnXqqTaYDYmA.jpeg",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "infoLink": "https://www.collectivecomputing.org/"
+            }
+        ]
+    }
+]

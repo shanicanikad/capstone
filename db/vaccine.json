@@ -1,0 +1,30 @@
+[
+    {
+        "product": "COVID Vaccine",
+        "average_efficiency_percentage": "86.0",
+        "average_pricing_USD": "45.00",
+        "available": [
+            {
+                "place": "Your Doctor's Office",
+                "image_url": "https://azbigmedia.com/wp-content/uploads/2017/11/doctor-shortage.jpg",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "place": "",
+                "image_url": "",
+                "price": "",
+                "link": ""
+            },
+            {
+                "infoLink": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html"
+            }
+        ]
+    }
+]
