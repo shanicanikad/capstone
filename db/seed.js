@@ -7,8 +7,8 @@ const TestingList = require("./testing.json");
 const Vaccine = require("../models/Vaccine");
 const VaccineList = require("./vaccine.json");
 
-const CurrentTracking = require("../models/CurrentTracking");
-const CurrentTrackingList = require("./currentTracking.json");
+const CovidTracking = require("../models/CovidTracking");
+const CovidTrackingList = require("./covidTracking.json");
 
 Products.deleteMany({}).then(() => {
     Products.create(ProductsList).then((output) => {
@@ -46,10 +46,10 @@ Vaccine.deleteMany({}).then(() => {
         })
 })
 
-CurrentTracking.deleteMany({}).then(() => {
-    CurrentTracking.create(CurrentTrackingList).then((output) => {
+CovidTracking.deleteMany({}).then(() => {
+    CovidTracking.create(CovidTrackingList).then((output) => {
         console.log(output);
-        CurrentTracking.find({})
+        CovidTracking.find({})
             .then((res) =>
                 console.log(res))
     })
