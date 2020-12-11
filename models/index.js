@@ -3,16 +3,16 @@ const app = express();
 const products = require("../models/Products");
 const testing = require("../models/Testing");
 const vaccine = require("../models/Vaccine");
-const currentTracking = require("../models/CurrentTracking");
+const covidTracking = require("../models/CovidTracking");
 const parser = require("body-parser");
 const cors = require("cors");
 
 app.use(parser.json());
 app.use(cors());
 
-app.get("/", (req, res) => {
-    res.redirect("/currentTracking")
-})
+// app.get("/", (req, res) => {
+//     res.redirect("/covidTracking")
+// })
 
 app.get("/products", (req, res) => {
     products.find({}).then((products) => {
@@ -32,8 +32,8 @@ app.get("/vaccine", (req, res) => {
     });
 });
 
-app.get("/currentTracking", (req, res) => {
-    currentTracking.find({}).then((covid) => {
+app.get("/covidTracking", (req, res) => {
+    covidTracking.find({}).then((covid) => {
         res.json(covid);
     });
 });
@@ -65,8 +65,8 @@ app.get("/vaccine/:id", (req, res) => {
         }
     );
 });
-app.get("/currentTracking/:id", (req, res) => {
-    currentTracking.findById({ _id: req.params.id }).then(
+app.get("/covidTracking/:id", (req, res) => {
+    covidTracking.findById({ _id: req.params.id }).then(
         (covid) => {
             res.json(covid);
         }
@@ -93,8 +93,8 @@ app.post("/vaccine", (req, res) => {
         res.json(covid);
     });
 });
-app.post("/currentTracking", (req, res) => {
-    currentTracking.create(req.body).then((covid) => {
+app.post("/covidTracking", (req, res) => {
+    covidTracking.create(req.body).then((covid) => {
         res.json(covid);
     });
 });
@@ -130,8 +130,8 @@ app.put("/vaccine/id/:id", (req, res) => {
     });
 });
 
-app.put("/currentTracking/id/:id", (req, res) => {
-    currentTracking.findByIdAndUpdate(
+app.put("/covidTracking/id/:id", (req, res) => {
+    covidTracking.findByIdAndUpdate(
         { _id: req.params.id },
         req.body
     ).then((covid) => {
@@ -168,8 +168,8 @@ app.delete("/vaccine/:id", (req, res) => {
     });
 });
 
-app.delete("/currentTracking/:id", (req, res) => {
-    currentTracking.findByIdAndDelete(
+app.delete("/covidTracking/:id", (req, res) => {
+    covidTracking.findByIdAndDelete(
         { _id: req.params.id },
         req.body
     ).then((covid) => {

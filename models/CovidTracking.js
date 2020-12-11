@@ -1,7 +1,7 @@
 const mongoose = require("../db/connection")
 const Schema = mongoose.Schema
 
-const CurrentTracking = new Schema
+const CovidTracking = new Schema
 
 
     ({
@@ -33,4 +33,4 @@ const CurrentTracking = new Schema
         hash: String
     })
 
-module.exports = mongoose.model("CurrentTracking", CurrentTracking)
+module.exports = mongoose.model("CovidTracking", CovidTracking)
