@@ -55,7 +55,7 @@ Information that becomes irrelevent or outdated is frequently deleted.
 
 
 
-** Back-end made with Mongo, Mongoose, and Express **
+** Back-end made with Node.js, Mongo, Mongoose, CORS, and Express **
 
 ** Front end information based on Products API, Testing API, and Vaccine API by Shanica Denis and Covid Tracking API from the COVID Tracking Project Data Api **
 

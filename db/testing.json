@@ -11,18 +11,6 @@
                 "link": ""
             },
             {
-                "place": "",
-                "image_url": "",
-                "price": "",
-                "link": ""
-            },
-            {
-                "place": "",
-                "image_url": "",
-                "price": "",
-                "link": ""
-            },
-            {
                 "infoLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270800/"
             }
         ]
@@ -39,18 +27,6 @@
                 "link": ""
             },
             {
-                "place": "",
-                "image_url": "",
-                "price": "",
-                "link": ""
-            },
-            {
-                "place": "",
-                "image_url": "",
-                "price": "",
-                "link": ""
-            },
-            {
                 "infoLink": "https://jcm.asm.org/content/58/6/e00721-20"
             }
         ]
@@ -63,18 +39,6 @@
             {
                 "place": "Conduit Computing",
                 "image_url": "https://miro.medium.com/max/2048/1*Z-K4P88C4TxnXqqTaYDYmA.jpeg",
-                "price": "",
-                "link": ""
-            },
-            {
-                "place": "",
-                "image_url": "",
-                "price": "",
-                "link": ""
-            },
-            {
-                "place": "",
-                "image_url": "",
                 "price": "",
                 "link": ""
             },
