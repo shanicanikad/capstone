@@ -12,24 +12,7 @@ const Testing = new Schema
                 place: String,
                 image_url: String,
                 price: Number,
-                link: String
-
-            },
-            {
-                place: String,
-                image_url: String,
-                price: Number,
-                link: String
-
-            },
-            {
-                place: String,
-                image_url: String,
-                price: Number,
-                link: String
-
-            },
-            {
+                link: String,
                 infoLink: String
             }
         ]
