@@ -8,7 +8,7 @@
             {
                 "place": "Amazon",
                 "image_url": "https://i.pinimg.com/originals/25/23/31/2523315902fc8b10aab32243f0a48264.png",
-                "price": "9.99",
+                "price": "10.00",
                 "link": "https://www.amazon.com/Achiou-Balaclava-Protection-Tactical-Motorcycle/dp/B07PFGMG5F/ref=sr_1_11?dchild=1&keywords=balaclava&qid=1607528381&sr=8-11"
             },
             {
@@ -20,7 +20,7 @@
             {
                 "place": "Kohl's",
                 "image_url": "https://media.kohlsimg.com/is/image/kohls/4586118_Black?wid=1200&hei=1200&op_sharpen=1",
-                "price": "5.24",
+                "price": "5.00",
                 "link": "https://www.kohls.com/product/prd-4586118/adult-bespoke-solid-washable-cloth-gaiter-face-covering.jsp?skuid=62379135&CID=shopping15&utm_campaign=MENS%20ACCESSORIES&utm_medium=CSE&utm_source=google&utm_product=62379135&utm_campaignid=9733267177&gclid=CjwKCAiAiML-BRAAEiwAuWVgggwXZ1qt_lin3JfmHahqo4ccgYcJ_sDDSsbb2NL3yJXp9VKt6Z_l3BoCSqgQAvD_BwE&gclsrc=aw.ds"
             }
         ]
@@ -40,13 +40,13 @@
             {
                 "place": "ASOS",
                 "image_url": "https://images.asos-media.com/products/asos-design-3-pack-face-covering-in-black-jersey/20851457-1-black?$XXL$&wid=513&fit=constrain",
-                "price": "15.20",
+                "price": "15.00",
                 "link": "https://www.asos.com/us/asos-design/asos-design-3-pack-face-covering-in-black-jersey/prd/20851457?affid=25712&_cclid=Google_CjwKCAiAiML-BRAAEiwAuWVggiEb4iu4f3Ff1ogK6zDdyBwcxP-jcGa9wTdOVrTv0EyOTOjy6eymFxoCdNcQAvD_BwE&channelref=product+search&mk=abc&ppcadref=10104919885%7c106779534692%7caud-642977720384:pla-294682000766&cpn=10104919885&gclid=CjwKCAiAiML-BRAAEiwAuWVggiEb4iu4f3Ff1ogK6zDdyBwcxP-jcGa9wTdOVrTv0EyOTOjy6eymFxoCdNcQAvD_BwE&gclsrc=aw.ds"
             },
             {
                 "place": "Old Navy",
                 "image_url": "https://oldnavy.gap.com/webcontent/0018/889/877/cn18889877.jpg",
-                "price": "12.50",
+                "price": "13.00",
                 "link": "https://oldnavy.gap.com/browse/product.do?pid=654503082&vid=1&policy=1&tid=onpl000017&kwid=1&ap=7&gclid=CjwKCAiAiML-BRAAEiwAuWVgggnwNt_rLh27TqAqP_iHDkQ-6_N32FIRGFYfbDMknJZOjpuz-tNuABoCBkcQAvD_BwE&gclsrc=aw.ds#pdp-page-content"
             }
         ]
@@ -60,7 +60,7 @@
             {
                 "place": "American Eagle",
                 "image_url": "https://s7d2.scene7.com/is/image/aeo/1222_6792_900_f?$pdp-m-opt$&fmt=webp",
-                "price": "11.97",
+                "price": "12.00",
                 "link": "https://www.ae.com/us/en/p/women/reusable-cloth-face-masks/men-s/aeo-reusable-constructed-training-masks-5/1222_6792_900?ip=off&gclsrc=aw.ds&&cid=PLA_AE_NonBrand_NonGender_General&gclid=CjwKCAiAiML-BRAAEiwAuWVggmpoNv4se95Wqs9vNLFh18969W9-oNarlDnukzF6GhOn4QXCifSwMhoCw78QAvD_BwE"
             },
             {
@@ -72,7 +72,7 @@
             {
                 "place": "The Home Depot",
                 "image_url": "https://images.homedepot-static.com/productImages/964655b0-a59b-41a1-891b-6156ec0615d5/svn/black-face-masks-hm-300-64_1000.jpg",
-                "price": "29.98",
+                "price": "30.00",
                 "link": "https://www.homedepot.com/p/3-Layer-Washable-Reusable-Face-Mask-with-Antibacterial-Fabric-Adjustable-Ear-Loops-Filter-Pocket-and-Nose-Clip-5-Pack-HM-300/314320210?source=shoppingads&locale=en-US"
             }
         ]
@@ -86,19 +86,19 @@
             {
                 "place": "Medical Mask Superstore",
                 "image_url": "https://cdn11.bigcommerce.com/s-ryxe9mafiq/images/stencil/1280x1280/products/390/2762/50-pack-black-surgical-masks-5__67285.1601309834.jpg?c=1",
-                "price": "14.95",
+                "price": "15.00",
                 "link": "https://www.medicalmasksuperstore.com/black-disposable-surgical-face-mask-50-pack/?sku=50-Piece-Black-Surgical-Mask-OS"
             },
             {
                 "place": "Wasserstein",
                 "image_url": "https://cdn.shopify.com/s/files/1/1100/5760/products/s-l1600_576x576.jpg?v=1603447210",
-                "price": "11.99",
+                "price": "12.00",
                 "link": "https://wasserstein-home.com/products/wasserstein-3-ply-medical-grade-surgical-mask-fda-approved-50-pack?variant=32023843766390&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
             },
             {
                 "place": "Moss Select",
                 "image_url": "https://www.mossselect.com/images/products_gallery_images/MossSurgical_USA_MaskPackagePhoto_731x58950.jpg",
-                "price": "20.99",
+                "price": "21.00",
                 "link": "https://www.mossselect.com/surgical-mask/?utm_source=google&utm_medium=cpc&utm_campaign=11658600468&utm_adgroup=&device=c&gclid=CjwKCAiAiML-BRAAEiwAuWVggqm_8Elsaiqfon2YEzaJU3V5xZnKtpHBu62_rFhabxkGYeOK-6gJQhoCF14QAvD_BwE"
             }
         ]
@@ -112,19 +112,19 @@
             {
                 "place": "Amazon",
                 "image_url": "https://images-na.ssl-images-amazon.com/images/I/61T6Gh2KghL._AC_SX355_PIbundle-10,TopRight,0,0_SH20_.jpg",
-                "price": "29.11",
+                "price": "29.00",
                 "link": "https://www.amazon.com/3M-8511PB1-Particulate-Respirator-10-Pack/dp/B0002YKBV2"
             },
             {
                 "place": "The Home Depot",
                 "image_url": "https://images.homedepot-static.com/productImages/1fcc5c41-d375-4a8b-99b6-cecbc4c510e4/svn/white-3m-face-masks-8200hc1-c6-64_600.jpg",
-                "price": "8.46",
+                "price": "8.00",
                 "link": "https://www.homedepot.com/p/3M-N95-Disposable-Respirator-6-Pack-8200HC1-C6/206406156"
             },
             {
                 "place": "ID&C",
                 "image_url": "https://www.idcband.com/media/catalog/product/cache/2/image/1800x/040ec09b1e35df139433887a97daa66f/b/u/buy-n95-face-mask-online_1_1.jpg",
-                "price": "49.90",
+                "price": "50.00",
                 "link": "https://www.idcband.com/en-us/n95-masks/"
             }
         ]
@@ -138,19 +138,19 @@
             {
                 "place": "Walmart",
                 "image_url": "https://i5.walmartimages.com/asr/15005828-49d2-433d-b7f1-6d7089c97331.8ff5e42d19f57dac06875d587bce3a95.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
-                "price": "7.99",
+                "price": "8.00",
                 "link": "https://www.walmart.com/ip/2-PACK-FACE-SHIELDS-100-PERCENT-PLASTIC-FACE-SHIELD-EASY-TO-CLEAN-EXCELLENT-COVERAGE-LIGHTWEIGHT-FULLY-ADJUSTABLE-COMFORTABLE-FOR-ALL-DAY-USE/836925463?wmlspartner=wlpa&selectedSellerId=101026510&&adid=22222222227370666348&wl0=&wl1=g&wl2=c&wl3=471765278828&wl4=pla-974482832399&wl5=9002051&wl6=&wl7=&wl8=&wl9=pla&wl10=247838402&wl11=online&wl12=836925463&veh=sem&gclid=CjwKCAiAiML-BRAAEiwAuWVggrJ8i2pnkVqAJqp6p2AgRQJLGSE1H2n7V79q3YxPa9NJH4uOUvZSlhoCYsMQAvD_BwE"
             },
             {
                 "place": "Ace Hardware",
                 "image_url": "https://cdn.shopify.com/s/files/1/1405/6268/products/image_1a844595-f947-4ad3-9a62-84f78818c557_large.jpg?v=1592481113",
-                "price": "11.99",
+                "price": "12.00",
                 "link": "https://www.acehardware.com/departments/tools/workwear-and-safety-gear/safety-glasses/2007580?store=10788&gclid=CjwKCAiAiML-BRAAEiwAuWVggtPOG8HfwnwGeuFqODwf73oiqJ6tyO_0sjS0nmlBEpeIR8YbjKCC0hoCMbAQAvD_BwE&gclsrc=aw.ds"
             },
             {
                 "place": "School Outfitters",
                 "image_url": "https://soimagescdn.azureedge.net/productimage/sellstrom_manufacturing/sel-s39010.jpg?width=265&height=265&version=v20190422",
-                "price": "22.99",
+                "price": "23.00",
                 "link": "https://soimagescdn.azureedge.net/productimage/sellstrom_manufacturing/sel-s39010.jpg?width=265&height=265&version=v20190422"
             }
         ]
@@ -164,7 +164,7 @@
             {
                 "place": "Target",
                 "image_url": "https://target.scene7.com/is/image/Target/GUEST_435db69c-cf66-414c-beae-4159ce4c17fe?wid=488&hei=488&fmt=pjpeg",
-                "price": "7.49",
+                "price": "7.00",
                 "link": "https://www.target.com/p/nitrile-exam-gloves-50ct-up-38-up-8482/-/A-80813611?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&DFA=71700000049427611&CPNG=PLA_Health%2BShopping_Local&adgroup=SC_Health&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9002051&targetid=pla-321577213326&ds_rl=1246978&ds_rl=1248099&gclid=CjwKCAiAiML-BRAAEiwAuWVgggKNTjqlyIUAGNlxsLnWDL1L6Y4713jd15lza2fBvj0YIRXojvl0qhoCLXQQAvD_BwE&gclsrc=aw.ds"
             },
             {
@@ -176,7 +176,7 @@
             {
                 "place": "Staples",
                 "image_url": "https://www.quill.com/is/image/Quill/sp106467315_s7?$img400$",
-                "price": "21.99",
+                "price": "22.00",
                 "link": "https://www.staples.com/gloveplus-powder-free-black-nitrile-gloves-xl-100-box-gpnb48100/product_24462859?ci_src=17588969&ci_sku=24462859&KPID=24462859&cid=PS:GS:SBD:PLA:Facilities&gclid=CjwKCAiAiML-BRAAEiwAuWVggn5p2Fk_HenUk_1uce2gZjKV1HqKXsFVdQe9uQliht0T9SE383xFExoCfbIQAvD_BwE"
             }
         ]
@@ -191,19 +191,19 @@
                 {
                     "place": "Walgreens",
                     "image_url": "https://media.officedepot.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_1665,q_auto,w_1250/c_pad,h_1665,w_1250/v1/products/5136038/5136038_o01_112020?pgw=1&pgwact=1",
-                    "price": "5.99",
+                    "price": "6.00",
                     "link": "https://www.walgreens.com/store/c/germ-x-original-hand-sanitizer/ID=300400732-product?ext=gooFY21_COVID+Prevention_PLACOVID+Prevention_PLA_&gclsrc=aw.ds&&ext=gooFY21_COVID_Prevention_PLA&pla&adtype=pla&kpid=400622137&sst=_k_CjwKCAiAq8f-BRBtEiwAGr3DgQOXZWzR6UkdhgxaYjPfXaE7mtmDuHdizEUnKBU8pvninDXNXNh2GhoCSV4QAvD_BwE_k_"
                 },
                 {
                     "place": "Lowe's",
                     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSekyYkXkYVojMgeQbAl6UOaLgm3totuynGi3X21xEwntoz1QZHu6awW5_jbglO6ARY7CMBhvTbLCCIf5FITxrKPUdZq7QZ-vra8y1GLucEDMUq43nwLh1KqXIF5zUs&usqp=CAE",
-                    "price": "4.98",
+                    "price": "5.00",
                     "link": "https://www.lowes.com/pd/Steril-Wize-Steril-Wize-Hand-Sanitizer-500ML/1002890562"
                 },
                 {
                     "place": "Office Depot",
                     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQLLWd8ksGe2b4xBYoEQHMHZjpbEf0PM9AiCO1-3eIcMto80PuAcfhBdvKbh5fuoKhnSCXryiwCzUoXyuXLm6uRQsNYInVaWlPBuiGytMVGrgoyysQUw-N23xLOUtqh&usqp=CAE",
-                    "price": "1.99",
+                    "price": "2.00",
                     "link": "https://www.officedepot.com/a/products/7331325/XtraCare-Fragrance-Free-Hand-Sanitizer-8/?utm_source=google&utm_medium=sag"
                 }
             ]
