@@ -8,7 +8,7 @@
                 "place": "Clinic/ Doctor's Office",
                 "image_url": "https://azbigmedia.com/wp-content/uploads/2017/11/doctor-shortage.jpg",
                 "price": "",
-                "link": ""
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270800/"
             },
             {
                 "infoLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270800/"
@@ -24,7 +24,7 @@
                 "place": "Clinic/ Doctor's Office",
                 "image_url": "https://azbigmedia.com/wp-content/uploads/2017/11/doctor-shortage.jpg",
                 "price": "",
-                "link": ""
+                "link": "https://jcm.asm.org/content/58/6/e00721-20"
             },
             {
                 "infoLink": "https://jcm.asm.org/content/58/6/e00721-20"
@@ -40,7 +40,7 @@
                 "place": "Conduit Computing",
                 "image_url": "https://miro.medium.com/max/2048/1*Z-K4P88C4TxnXqqTaYDYmA.jpeg",
                 "price": "",
-                "link": ""
+                "link": "https://www.collectivecomputing.org/"
             },
             {
                 "infoLink": "https://www.collectivecomputing.org/"
