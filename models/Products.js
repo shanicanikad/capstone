@@ -9,6 +9,7 @@ const Products = new Schema
         product: String,
         average_efficiency_percentage: Number,
         average_pricing_USD: Number,
+        infoLink: String,
         available: [
             {
                 place: String,
@@ -29,7 +30,6 @@ const Products = new Schema
                 image_url: String,
                 price: Number,
                 link: String,
-                infoLink: String
             }
         ]
     })
