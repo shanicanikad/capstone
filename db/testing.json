@@ -6,7 +6,7 @@
         "available": [
             {
                 "place": "Clinic/ Doctor's Office",
-                "image_url": "https://azbigmedia.com/wp-content/uploads/2017/11/doctor-shortage.jpg",
+                "image_url": "https://health.ucdavis.edu/coronavirus/images/coronavirus-testing.PNG",
                 "price": "",
                 "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270800/",
                 "infoLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270800/"
@@ -20,7 +20,7 @@
         "available": [
             {
                 "place": "Clinic/ Doctor's Office",
-                "image_url": "https://azbigmedia.com/wp-content/uploads/2017/11/doctor-shortage.jpg",
+                "image_url": "https://www.infectiousdiseaseadvisor.com/wp-content/uploads/sites/16/2020/08/nasal.swab_.test_SH_469573802.jpg",
                 "price": "",
                 "link": "https://jcm.asm.org/content/58/6/e00721-20",
                 "infoLink": "https://jcm.asm.org/content/58/6/e00721-20"
@@ -34,10 +34,10 @@
         "available": [
             {
                 "place": "Conduit Computing",
-                "image_url": "https://miro.medium.com/max/2048/1*Z-K4P88C4TxnXqqTaYDYmA.jpeg",
+                "image_url": "https://static.wixstatic.com/media/687ab9_f19432fe38ad49c49b3b24536bce92e5f000.jpg/v1/fill/w_321,h_600,al_c,q_80,usm_0.33_1.00_0.00/687ab9_f19432fe38ad49c49b3b24536bce92e5f000.webp",
                 "price": "",
                 "link": "https://www.collectivecomputing.org/",
-                "infoLink": "https://www.collectivecomputing.org/"
+                "infoLink": "https://www.conduitcomputing.com/"
             }
         ]
     }
