@@ -18,13 +18,13 @@ When directed to the "Vaccine" tab, the user will be redirected to the 'Vaccine'
 
 And finally, when directed to the "Covid Tracking" tab, the user will be redirected to the 'Covid Tracking' page where he or she can view the projected Covid-19 tracking data in the United States from the beginning of this year.
 
-On each separate page, there are three tabs that the user can click on: "Update", "Delete", and "Create". 
+On each separate page, there are three tabs that the user can click on: "Update", "Delete", and "Add a Product". 
 
 "Update" will allow the user to update information such as updating the average efficiency of a product in the products section. 
 
 "Delete" will allow the user to delete information that is no longer relevent like data on the 'Covid Tracking' page that occurred pre-Covid.
 
-Finally, 'Create' allows the user to create new information because as we know, our information about Covid is forever changing!
+Finally, "Add a Product" allows the user to create new information because as we know, our information about Covid is forever changing!
 
 At the bottom of the main page, there is a "Subscibe" button and next to the button is a form that the user can enter their email address. When the user clicks the "Subscribe" button, an alert will pop up on the screen saying, "Thanks for Subscribing!"
 
