@@ -78,6 +78,7 @@ app.get("/covidTracking/:id", (req, res) => {
 
 
 app.post("/products", (req, res) => {
+    console.log(req.body)
     products.create(req.body).then((covid) => {
         res.json(covid);
     });
