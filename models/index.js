@@ -7,8 +7,8 @@ const covidTracking = require("../models/CovidTracking");
 const parser = require("body-parser");
 const cors = require("cors");
 
-app.use(parser.json());
 app.use(cors());
+app.use(parser.json());
 
 // app.get("/", (req, res) => {
 //     res.redirect("/covidTracking")
